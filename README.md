@@ -13,3 +13,5 @@ This project demonstrates a Windows Server Active Directory environment with dom
 - Windows Server 2022
 - Windows 10 client
 - VirtualBox / VMware
+
+## architecture
