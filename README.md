@@ -1,4 +1,4 @@
-# Active Directory Lab Project
+# Active Directory Lab
 
 ## Overview
 This project demonstrates a Windows Server Active Directory environment with domain services, user management, and group policies.
