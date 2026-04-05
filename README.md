@@ -27,3 +27,6 @@ Configure virtual machines
 
 - Add VMHosts to private network
 <img src="images/Architecture/AddVMToNetwork.jpg" alt="Isolated Network" width="600"/>
+
+- Set up Advanced Directory
+- <img src="images/Architecture/AddVMToNetwork.jpg" alt="Isolated Network" width="600"/>
