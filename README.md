@@ -14,5 +14,10 @@ This project demonstrates a Windows Server Active Directory environment with dom
 - Windows 10 client
 - VirtualBox / VMware
 
-## architecture
-![Active Directory Architecture](images/Architecture/Active-Directory.jpg)
+## Architecture
+<img src="images/Architecture/Active%20Directory.jpg" alt="Active Directory Architecture" width="400"/>
+
+## Set Up
+Configure virtual machines
+- 1 server, 2 clients
+<img src="images
