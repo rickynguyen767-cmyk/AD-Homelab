@@ -15,3 +15,4 @@ This project demonstrates a Windows Server Active Directory environment with dom
 - VirtualBox / VMware
 
 ## architecture
+![Alt text](relative/path/to/image.png)
